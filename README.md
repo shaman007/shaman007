@@ -7,7 +7,7 @@
 
 ## 🧰 About Me
 
-- 💻 I build and maintain self-hosted infrastructure with Kubernetes, Ansible, and containers.
+- 💻 I build and maintain self-hosted infrastructure with Kubernetesю
 - 🔐 I care about **security**, **performance**, and **resilience**.
 - 🏡 Running a homelab with mixed x86/ARM Kubernetes nodes.
 - 📜 Automation enthusiast with experience in Bash, Puppet, and Python scripting.
