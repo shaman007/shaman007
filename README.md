@@ -37,7 +37,8 @@
 | [`home-k3s`](https://github.com/shaman007/home-k3s) | Helm-based self-hosted stack on K3s with Vault, Longhorn, Prometheus, and more. |
 | [`mail_and_files_selfhosted`](https://github.com/shaman007/mail_and_files_selfhosted) | Ansible playbooks for email (Postfix/Dovecot) and file services (Nextcloud, WordPress). |
 | [`connectivity-exporter`](https://github.com/shaman007/connectivity-exporter) | Prometheus exporter for network reachability (with config file, CLI and env support). |
-| [`vaultwarden-docker`](https://github.com/shaman007/Dockerfiles) | Custom Dockerfiles for my projects. |
+| [`key-val`](https://github.com/shaman007/key-val) | Simple in-memory key-value db in C. WIP |
+| [`Doockerfiles`](https://github.com/shaman007/Dockerfiles) | Custom Dockerfiles for my projects. |
 
 ---
 
