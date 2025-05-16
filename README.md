@@ -37,9 +37,10 @@
 
 ## 🧠 Fun facts
 
-- I moderate [Linux.org.ru](https://www.linux.org.ru) since 2000s up to 2022
+- I moderated [Linux.org.ru](https://www.linux.org.ru) since 2000s up to 2022
 - I enjoy retrocomputing, early GPUs, and FidoNet nostalgia
-- I ride 🚴‍♂️ up to 200 km with pleasure and track every watt ⚡
+- I ride 🚴‍♂️ up to 100 km with pleasure and track every watt ⚡
+- 4x4 enthusiast
 
 ---
 
