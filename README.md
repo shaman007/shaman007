@@ -39,6 +39,7 @@
 | [`connectivity-exporter`](https://github.com/shaman007/connectivity-exporter) | Prometheus exporter for network reachability (with config file, CLI and env support). |
 | [`key-val`](https://github.com/shaman007/key-val) | Simple in-memory key-value db in C. WIP |
 | [`Doockerfiles`](https://github.com/shaman007/Dockerfiles) | Custom Dockerfiles for my projects. |
+| [`Changegen`](https://github.com/shaman007/changegen) | Wrapper for the OpenAI to gen nice changleg based on code changes, not commit messages. Helpful if your pet-project commit messages are not meaningful. |
 
 ---
 
