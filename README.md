@@ -1,6 +1,6 @@
-<h1 align="center">Hey, I'm Andrey Bondarenko 👋</h1>
+<h1 align="center">Hey, I'm Andrey!</h1>
 <p align="center">
-  🛠️ DevOps Engineer • 🚴‍♂️ Cyclist • 🧠 Curious tinkerer • 🇨🇿 Based in Brno, CZ
+  🛠️ DevOps Engineer • 🚴‍♂️ Cyclist • 🇨🇿 Based in Brno, CZ
 </p>
 
 ---
