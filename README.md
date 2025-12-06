@@ -59,9 +59,3 @@
 - I enjoy retrocomputing, early GPUs, and FidoNet nostalgia
 - I ride up to 100 km with pleasure
 - 4x4 enthusiast
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaman007&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
