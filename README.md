@@ -1,16 +1,16 @@
 <h1 align="center">Hey, I'm Andrey!</h1>
 <p align="center">
-  🛠️ DevOps Engineer • 🚴‍♂️ Cyclist • 🇨🇿 Based in Brno, CZ
+    DevOps Engineer • Cyclist • 🇨🇿 Brno
 </p>
 
 ---
 
-## 🧰 About Me
+## About
 
-- 💻 I build and maintain self-hosted infrastructure with Kubernetesю
-- 🔐 I care about **security**, **performance**, and **resilience**.
-- 🏡 Running a homelab with mixed x86/ARM Kubernetes nodes.
-- 📜 Automation enthusiast with experience in Bash, Puppet, and Python scripting.
+- I build and maintain self-hosted infrastructure with Kubernetes
+- I care about **security**, **performance**, and **resilience**.
+- Running a homelab.
+- Automation enthusiast with experience in Bash, Puppet, and Python scripting.
 
 ---
 
@@ -30,7 +30,7 @@
 </p>
 ---
 
-## 🚀 Projects
+## My Projects
 
 | Project | Description |
 |--------|-------------|
@@ -53,11 +53,11 @@
 
 ---
 
-## 🧠 Fun facts
+## Fun facts
 
 - I moderated [Linux.org.ru](https://www.linux.org.ru) since 2000s up to 2022
 - I enjoy retrocomputing, early GPUs, and FidoNet nostalgia
-- I ride 🚴‍♂️ up to 100 km with pleasure and track every watt ⚡
+- I ride up to 100 km with pleasure
 - 4x4 enthusiast
 
 ---
