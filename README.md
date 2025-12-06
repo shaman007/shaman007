@@ -14,7 +14,7 @@
 
 ---
 
-## 🧪 Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
+
 ---
 
 ## My Projects
