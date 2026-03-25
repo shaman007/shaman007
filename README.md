@@ -1,9 +1,9 @@
+## About me
+
 I’m Andrey, a DevOps engineer focused on Linux, Information Security, Kubernetes, and infrastructure reliability. I advocate and operate self-hosted platforms, automate operational work, and turn complex systems into something observable and maintainable.
 I have a long background in open source communities — from 2003 to 2023 I managed Linux.org.ru, one of the largest Russian-speaking Linux and open source news platforms. This was moderation and community governance for two decades.
 My work is hands-on: containers, clusters, networking, storage, CI/CD, and observability. I prefer practical solutions that work reliably in real environments.
 I’m interested in cloud-native infrastructure, platform engineering, and contributing to open source through real-world usage, debugging, and incremental improvements.
-
----
 
 ## Tech Stack
 
@@ -20,8 +20,6 @@ I’m interested in cloud-native infrastructure, platform engineering, and contr
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
----
-
 ## My Projects
 
 | Project | Description |
@@ -33,21 +31,10 @@ I’m interested in cloud-native infrastructure, platform engineering, and contr
 | [`Doockerfiles`](https://github.com/shaman007/Dockerfiles) | Custom Dockerfiles for my projects. |
 | [`Changegen`](https://github.com/shaman007/changegen) | Wrapper for the OpenAI to gen nice changleg based on code changes, not commit messages. Helpful if your pet-project commit messages are not meaningful. |
 
----
+## Where to find me
 
-## 📡 Where to find me
-
-- 🌐 [andreybondarenko.com](https://andreybondarenko.com)
-- CV [PDF](https://andreybondarenko.com/cv.pdf)
-- 🐘 [@shaman007@mastodon.andreybondarenko.com](https://mastodon.andreybondarenko.com/@shaman007)
-- 💼 [LinkedIn](https://www.linkedin.com/in/shaman007)
-- 💬 [Facebook](https://www.facebook.com/shaman007)
-
----
-
-## Fun facts
-
-- I moderated [Linux.org.ru](https://www.linux.org.ru) since 2000s up to 2022
-- I enjoy retrocomputing, early GPUs, and FidoNet nostalgia
-- I ride up to 100 km with pleasure
-- 4x4 enthusiast
+- [andreybondarenko.com](https://andreybondarenko.com)
+- [PDF](https://andreybondarenko.com/cv.pdf)
+- [@shaman007@mastodon.andreybondarenko.com](https://mastodon.andreybondarenko.com/@shaman007)
+- [LinkedIn](https://www.linkedin.com/in/shaman007)
+- [Facebook](https://www.facebook.com/shaman007)
