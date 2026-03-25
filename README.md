@@ -1,8 +1,8 @@
 ## About me
 
-I’m Andrey, a DevOps engineer focused on Linux, Information Security, Kubernetes, and infrastructure reliability. I advocate and operate self-hosted platforms, automate operational work, and turn complex systems into something observable and maintainable.
+I’m Andrey, a DevOps engineer focused on Linux, Information Security, Kubernetes, and infrastructure reliability. I advocate and operate self-hosted platforms, automate operational work, and turn complex systems into something observable and maintainable. 
 
-I have a long background in open source communities — from 2003 to 2023 I managed Linux.org.ru, one of the largest Russian-speaking Linux and open source news platforms. This was moderation and community governance for two decades.
+I have a long background in open source communities — from 2003 to 2023 I managed Linux.org.ru, one of the largest Russian-speaking Linux and open source news platforms. That meant moderation, governance, abuse handling, and keeping a noisy system stable over time.
 
 My work is hands-on: containers, clusters, networking, storage, CI/CD, and observability. I prefer practical solutions that work reliably in real environments.
 
@@ -25,13 +25,11 @@ I’m interested in cloud-native infrastructure, platform engineering, and contr
 
 ## My Projects
 
-| Project | Description |
-|--------|-------------|
-| [`home-k3s`](https://github.com/shaman007/home-k3s) | Helm-based self-hosted stack on K3s with Vault, Longhorn, Prometheus, and more. |
-| [`connectivity-exporter`](https://github.com/shaman007/connectivity-exporter) | Prometheus exporter for network reachability (with config file, CLI and env support). |
-| [`Doockerfiles`](https://github.com/shaman007/Dockerfiles) | Custom Dockerfiles for my projects. |
+| [`home-k3s`](https://github.com/shaman007/home-k3s) | Self-hosted stack on K3s with Vault, Longhorn, Prometheus, and more. |
+| [`CANitiser`](https://github.com/shaman007/CAnitiser) | CA Image Scanner for (not only) Kubernetes |
+| [`Dockerfiles`](https://github.com/shaman007/Dockerfiles) | Custom Dockerfiles for my projects. |
 | [`Changegen`](https://github.com/shaman007/changegen) | Wrapper for the OpenAI to gen nice changleg based on code changes, not commit messages. Helpful if your pet-project commit messages are not meaningful. |
-| [`mail_and_files_selfhosted`](https://github.com/shaman007/mail_and_files_selfhosted) | Ansible playbooks for email (Postfix/Dovecot) and file services (Nextcloud, WordPress). |
+| [`simple-gpss`](https://github.com/shaman007/simple-gpss) | Simple IBM GPSS languge simulator written in Java. |
 
 ## Where to find me
 
