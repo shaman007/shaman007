@@ -25,10 +25,10 @@ I’m interested in cloud-native infrastructure, platform engineering, and contr
 | Project | Description |
 |--------|-------------|
 | [`home-k3s`](https://github.com/shaman007/home-k3s) | Helm-based self-hosted stack on K3s with Vault, Longhorn, Prometheus, and more. |
-| [`mail_and_files_selfhosted`](https://github.com/shaman007/mail_and_files_selfhosted) | Ansible playbooks for email (Postfix/Dovecot) and file services (Nextcloud, WordPress). |
 | [`connectivity-exporter`](https://github.com/shaman007/connectivity-exporter) | Prometheus exporter for network reachability (with config file, CLI and env support). |
 | [`Doockerfiles`](https://github.com/shaman007/Dockerfiles) | Custom Dockerfiles for my projects. |
 | [`Changegen`](https://github.com/shaman007/changegen) | Wrapper for the OpenAI to gen nice changleg based on code changes, not commit messages. Helpful if your pet-project commit messages are not meaningful. |
+| [`mail_and_files_selfhosted`](https://github.com/shaman007/mail_and_files_selfhosted) | Ansible playbooks for email (Postfix/Dovecot) and file services (Nextcloud, WordPress). |
 
 ## Where to find me
 
