@@ -42,3 +42,4 @@ I’m interested in cloud-native infrastructure, platform engineering, and contr
 - [LinkedIn](https://www.linkedin.com/in/shaman007)
 - [Facebook](https://www.facebook.com/shaman007)
 - [Telegram](https://t.me/shaman007)
+- Fingerprint C67933BB0649C8D22344D2EF7D3F42F6E565F1CD
