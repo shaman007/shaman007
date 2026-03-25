@@ -1,16 +1,7 @@
-<h1 align="center">Hey, I'm Andrey!</h1>
-<p align="center">
-    DevOps Engineer • Cyclist • 🇨🇿 Brno
-</p>
-
----
-
-## About
-
-- I build and maintain self-hosted infrastructure with Kubernetes
-- I care about **security**, **performance**, and **resilience**.
-- Running a homelab.
-- Automation enthusiast with experience in Bash, Puppet, and Python scripting.
+I’m Andrey, a DevOps engineer focused on Linux, Information Security, Kubernetes, and infrastructure reliability. I advocate and operate self-hosted platforms, automate operational work, and turn complex systems into something observable and maintainable.
+I have a long background in open source communities — from 2003 to 2023 I managed Linux.org.ru, one of the largest Russian-speaking Linux and open source news platforms. This was moderation and community governance for two decades.
+My work is hands-on: containers, clusters, networking, storage, CI/CD, and observability. I prefer practical solutions that work reliably in real environments.
+I’m interested in cloud-native infrastructure, platform engineering, and contributing to open source through real-world usage, debugging, and incremental improvements.
 
 ---
 
