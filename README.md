@@ -24,7 +24,7 @@ I’m interested in cloud-native infrastructure, platform engineering, and contr
 </p>
 
 ## My Projects
-
+|--------|-------------|
 | [`home-k3s`](https://github.com/shaman007/home-k3s) | Self-hosted stack on K3s with Vault, Longhorn, Prometheus, and more. |
 | [`CANitiser`](https://github.com/shaman007/CAnitiser) | CA Image Scanner for (not only) Kubernetes |
 | [`Dockerfiles`](https://github.com/shaman007/Dockerfiles) | Custom Dockerfiles for my projects. |
