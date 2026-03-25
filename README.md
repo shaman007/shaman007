@@ -32,9 +32,11 @@ I’m interested in cloud-native infrastructure, platform engineering, and contr
 
 ## Where to find me
 
-- [Homepage andreybondarenko.com](https://andreybondarenko.com)
+- [Homepage](https://andreybondarenko.com)
+- [mail](mailto://me@andreybondarenko.com)
 - [CV PDF](https://andreybondarenko.com/cv.pdf)
 - [@shaman007@mastodon](https://mastodon.andreybondarenko.com/@shaman007)
-- [Matrix](@andrey@shaman007.com)
+- [Matrix](matrix://andrey@shaman007.com)
 - [LinkedIn](https://www.linkedin.com/in/shaman007)
 - [Facebook](https://www.facebook.com/shaman007)
+- [Telegram](https://t.me/shaman007)
