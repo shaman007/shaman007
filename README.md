@@ -27,14 +27,14 @@ I’m interested in cloud-native infrastructure, platform engineering, and contr
 | [`home-k3s`](https://github.com/shaman007/home-k3s) | Helm-based self-hosted stack on K3s with Vault, Longhorn, Prometheus, and more. |
 | [`mail_and_files_selfhosted`](https://github.com/shaman007/mail_and_files_selfhosted) | Ansible playbooks for email (Postfix/Dovecot) and file services (Nextcloud, WordPress). |
 | [`connectivity-exporter`](https://github.com/shaman007/connectivity-exporter) | Prometheus exporter for network reachability (with config file, CLI and env support). |
-| [`key-val`](https://github.com/shaman007/key-val) | Simple in-memory key-value db in C. WIP |
 | [`Doockerfiles`](https://github.com/shaman007/Dockerfiles) | Custom Dockerfiles for my projects. |
 | [`Changegen`](https://github.com/shaman007/changegen) | Wrapper for the OpenAI to gen nice changleg based on code changes, not commit messages. Helpful if your pet-project commit messages are not meaningful. |
 
 ## Where to find me
 
-- [andreybondarenko.com](https://andreybondarenko.com)
-- [PDF](https://andreybondarenko.com/cv.pdf)
-- [@shaman007@mastodon.andreybondarenko.com](https://mastodon.andreybondarenko.com/@shaman007)
+- [Homepage andreybondarenko.com](https://andreybondarenko.com)
+- [CV PDF](https://andreybondarenko.com/cv.pdf)
+- [@shaman007@mastodon](https://mastodon.andreybondarenko.com/@shaman007)
+- [Matrix](@andrey@shaman007.com)
 - [LinkedIn](https://www.linkedin.com/in/shaman007)
 - [Facebook](https://www.facebook.com/shaman007)
